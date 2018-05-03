@@ -10,7 +10,7 @@ namespace FirstApp
     {
         static void Main(string[] args)
         {
-            Calculator.Add(2, 3);
+            Calculator.Add(5, 3);
             Console.ReadKey();
         }
     }
